@@ -21,9 +21,9 @@ grid_settings:
   grid_spacing: 20
 
 contact_settings:
-  form_action: ''
+  form_action: 'https://formspree.io/mnqoaklk'
   confirmation_url: '/thanks'
-  email_subject: 'Contact form submission'
+  email_subject: 'Mike Maieli contact form submission'
   send_button_text: 'Send Message'
 
 social_settings:
@@ -166,7 +166,15 @@ font_settings:
 
 advanced_settings:
   ajax_loading: true
-  analytics_code: ""
+  analytics_code: "<script async src="https://www.googletagmanager.com/gtag/js?id=UA-87909426-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-87909426-4');
+</script>
+"
   custom_styles: ""
   header_js: ""
   footer_js: ""

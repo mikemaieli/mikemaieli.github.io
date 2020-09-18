@@ -9,7 +9,7 @@ featured_image: '/images/keynote/dvsg_21.jpeg'
 
 #### Project Overview
 
-As part of graduate school, I had an assignment to deliver a presentation introducing the value of a data visualization style guide. The presentation is structured to have three key components:
+In a graduate school assignment, I had to deliver a presentation introducing the value of a data visualization style guide. The presentation is structured to have three key components:
 1. Why is a data visualization style guide important?
 2. What is in a data viz style guide?
 3. How can the audience take action?

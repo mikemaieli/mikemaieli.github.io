@@ -16,5 +16,8 @@ featured_image: /images/demo/demo-landscape.jpg
 ### I design presentations and slide decks.
 **Do you need to deliver a pitch, keynote, or a slide deck but do not have the time or resources to design visuals that do your story justice?** I will design a custom set of slides that will complement your presentation and provide supporting information in a clean, clear, and crisp way for your audience. I can also create content heavy slides used for PDF'ing or distribution.
 
-<br/>
-<a href="mailto:mmaieli@gmail.com" class="button button--large">Contact me if you would like to chat >></a>
+
+---
+
+##### Use the form below if you would like to connect
+{% include contact-form.html %}

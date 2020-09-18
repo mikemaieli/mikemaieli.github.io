@@ -9,7 +9,7 @@ featured_image: '/images/brand/brand_07.jpeg'
 
 #### Project Overview
 
-As an assignment in graduate school, I need to develop and present personal brand guidelines. The document below is a sample deliverable to a client introducing a new logo, typography, and color palette. Visuals drive this document, with text providing additional context to explain all of the design decisions. This document shows how reports or other traditional prose documents can be transformed into a visual-driven document.
+In a graduate school assignment, I needed to develop and present personal brand guidelines. The document below is a sample deliverable to a client introducing a new logo, typography, and color palette. Visuals drive this document, with text providing additional context to explain all of the design decisions. This document shows how reports or other traditional prose documents can be transformed into a visual-driven document.
 
 <br/>
 

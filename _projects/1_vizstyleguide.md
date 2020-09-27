@@ -4,6 +4,7 @@ subtitle: 'conference presentation'
 date: 2018-06-30 00:00:00
 description: conference presentation
 featured_image: '/images/keynote/dvsg_21.jpeg'
+published: false
 ---
 
 

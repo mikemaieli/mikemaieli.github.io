@@ -1,6 +1,6 @@
 ---
 title: '#TidyTuesday'
-subtitle: 'Data Analysis and Visualization in R'
+subtitle: 'data analysis and visualization in R'
 date: 2018-06-30 00:00:00
 description: Compilation of my #TidyTuesday submissions.
 featured_image: '/images/tidytuesday/nhlgoals.png'

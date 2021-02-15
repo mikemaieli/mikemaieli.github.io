@@ -4,6 +4,7 @@ subtitle: 'visual-driven document'
 date: 2018-06-30 00:00:00
 description: A sample deck presenting branding assets.
 featured_image: '/images/brand/brand_07.jpeg'
+published: false
 ---
 
 

@@ -1,9 +1,13 @@
 ---
-title: Need help telling your data story?
+title: Need help discovering or telling your data story?
 subtitle:
 description:
 featured_image:
 ---
+
+### I analyze data.
+**Have a dataset but unsure how to make it useful?** I am an experienced data analyst and can work with you to access the information you need from the data you already have. I can share my results in a way that makes the most sense for you. My goal is to help bridge the gap between data and decision making.
+
 
 ### I create infographics.
 **Have a large report but worried that your audience won't read or engage?** A one or two (or three) page designed document can help bridge the gap between a more detailed report and a time-limited audience. I can turn your story into a digestible and engaging form that can help you deliver your message beyond a lengthy report.

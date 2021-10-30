@@ -13,6 +13,7 @@ Tidy Tuesday is a weekly data project within the R for Data Science community wi
 
 <div class="gallery" data-columns="2">
 	<img src="/images/tidytuesday/beyonceswift.png">
+    <img src="/images/tidytuesday/f1.png">
     <img src="/images/tidytuesday/olympic_medals.png">
     <img src="/images/tidytuesday/college.png">
 	<img src="/images/tidytuesday/consumption_emissions.png">
